@@ -5,7 +5,7 @@ Estudos DIO sobre Colletions Set.
 - Operações básicas
 - Pesquisa em Set
 - Ordenação em Set
-- 
+
 ### Material
 https://github.com/cami-la/collections-java-api-2023/tree/master
 
